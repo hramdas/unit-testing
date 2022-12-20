@@ -6,6 +6,7 @@ https://jestjs.io/docs/getting-started
 ```ruby
 npm install --save-dev jest
 ```
+* package.json
 ```ruby
 {
   "scripts": {
